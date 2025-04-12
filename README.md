@@ -55,4 +55,4 @@ Contribuições são bem-vindas! Siga os passos:
 4. Faça um push: `git push origin minha-feature`.
 5. Abra um Pull Request.
 
-💡 **Desenvolvido por [Seu Nome]**
+💡 **Desenvolvido por Mateus Rodrigo**
